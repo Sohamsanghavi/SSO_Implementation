@@ -1,0 +1,51 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color:#a85c5c;
+}
+
+.login-button-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.Service1-button {
+  background-color: #4e4186;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.Service2-button {
+  background-color: #67953b;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Service1-button:hover {
+  background-color: #57428d;
+  color: #fff;
+}
+
+.Service2-button:hover {
+  background-color: #26715c;
+  color: #fff;
+}
